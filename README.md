@@ -38,9 +38,9 @@ cd OpenManus
 pip install -r requirements.txt
 ```
 
-### 方式二：使用 uv（推荐）
+### 方式二：使用 uv
 
-1. 安装 uv（一个快速的 Python 包管理器）：
+1. 安装 uv：
 
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -58,6 +58,7 @@ cd OpenManus
 ```bash
 uv venv
 source .venv/bin/activate  # Unix/macOS 系统
+
 # Windows 系统使用：
 # .venv\Scripts\activate
 ```
