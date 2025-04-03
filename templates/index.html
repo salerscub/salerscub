@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SalerSCUB</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="history-panel">
+            <h2>销售员SalerSCUB</h2>
+            <div id="task-list" class="task-list"></div>
+        </div>
+
+        <div class="main-panel">
+            <div id="task-container" class="task-container">
+                <div class="welcome-message">
+                    <h1>SalerSCUB欢迎您</h1>
+                    <p>请输入SalerSCUB的任务</p>
+                </div>
+                <div id="log-container" class="step-container"></div>
+            </div>
+
+            <div id="input-container" class="input-container">
+                <input
+                    type="text"
+                    id="prompt-input"
+                    placeholder="输入SalerSCUB的任务..."
+                    onkeypress="if(event.keyCode === 13) createTask()"
+                >
+                <button onclick="createTask()">SalerSCUB等你命令</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/main.js"></script>
+</body>
+</html>
