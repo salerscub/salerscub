@@ -117,6 +117,6 @@ python run_flow.py
 
 ## 致谢
 
-特别感谢 
-饼干哥、可可、CC、 steffens
+特别感谢：
+饼干哥、可可、CC、Steffens
 
