@@ -1,22 +1,12 @@
+
+
 中文
 
-[![GitHub stars](https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social)](https://github.com/mannaandpoem/OpenManus/stargazers)
-&ensp;
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &ensp;
-[![Discord Follow](https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat)](https://discord.gg/DYn29wFk9z)
 
-# 👋 OpenManus
+# 👋 Salerscub
 
-Manus 非常棒，但 OpenManus 无需邀请码即可实现任何创意 🛫！
 
-我们的团队成员 [@mannaandpoem](https://github.com/mannaandpoem) [@XiangJinyu](https://github.com/XiangJinyu) [@MoshiQAQ](https://github.com/MoshiQAQ) [@didiforgithub](https://github.com/didiforgithub) https://github.com/stellaHSR 来自 [@MetaGPT](https://github.com/geekan/MetaGPT) 组织，我们在 3
-小时内完成了原型开发并持续迭代中！
-
-这是一个简洁的实现方案，欢迎任何建议、贡献和反馈！
-
-用 OpenManus 开启你的智能体之旅吧！
-
-我们也非常高兴地向大家介绍 [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)，这是一个专注于基于强化学习（RL，例如 GRPO）的方法来优化大语言模型（LLM）智能体的开源项目，由来自UIUC 和 OpenManus 的研究人员合作开发。
+用 Salerscub 开启你的智能体之旅吧！
 
 
 ## 项目演示
@@ -126,27 +116,8 @@ python main.py
 python run_flow.py
 ```
 
-## 贡献指南
-
-我们欢迎任何友好的建议和有价值的贡献！可以直接创建 issue 或提交 pull request。
-
-或通过 📧 邮件联系 @mannaandpoem：mannaandpoem@gmail.com
-
-## 交流群
-
-加入我们的飞书交流群，与其他开发者分享经验！
-
-<div align="center" style="display: flex; gap: 20px;">
-    <img src="assets/community_group.jpg" alt="OpenManus 交流群" width="300" />
-</div>
-
-## Star 数量
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mannaandpoem/OpenManus&type=Date)](https://star-history.com/#mannaandpoem/OpenManus&Date)
-
 ## 致谢
 
-特别感谢 [anthropic-computer-use](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo)
-和 [browser-use](https://github.com/browser-use/browser-use) 为本项目提供的基础支持！
+特别感谢 
+饼干哥、可可、CC、 steffens
 
-OpenManus 由 MetaGPT 社区的贡献者共同构建，感谢这个充满活力的智能体开发者社区！
