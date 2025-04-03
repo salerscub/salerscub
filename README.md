@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Salescube is a agent salesperson.
+
 <!--
 **salerscub/salerscub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
