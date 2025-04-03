@@ -1,9 +1,5 @@
 
-
-中文
-
-
-# 👋 Salerscub
+# 👋 SalerScub
 
 
 用 Salerscub 开启你的智能体之旅吧！
