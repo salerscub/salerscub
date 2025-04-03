@@ -21,7 +21,7 @@ Manus 非常棒，但 OpenManus 无需邀请码即可实现任何创意 🛫！
 
 ## 项目演示
 
-[![OpenManus演示视频](https://path_to_your_image.png)](https://www.bilibili.com/video/BV1UyZSYuEmK/?vd_source=555d4d06d76dfcceeb83a9e9c3717834)
+[![OpenManus演示视频](https://github.com/salerscub/salerscub/blob/code-20250403/scub.png)](https://www.bilibili.com/video/BV1UyZSYuEmK/?vd_source=555d4d06d76dfcceeb83a9e9c3717834)
 
 点击上面的截图观看 OpenManus 演示视频。
 
