@@ -18,16 +18,6 @@ Manus 非常棒，但 OpenManus 无需邀请码即可实现任何创意 🛫！
 
 我们也非常高兴地向大家介绍 [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)，这是一个专注于基于强化学习（RL，例如 GRPO）的方法来优化大语言模型（LLM）智能体的开源项目，由来自UIUC 和 OpenManus 的研究人员合作开发。
 
-## 项目演示
-
-<video src="https://www.bilibili.com/video/BV1UyZSYuEmK/?vd_source=555d4d06d76dfcceeb83a9e9c3717834" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px"></video>
-
-## 项目演示
-
-[![OpenManus演示视频](https://img.shields.io/badge/Watch%20on%20Bilibili-%E2%9C%94-green)](https://www.bilibili.com/video/BV1UyZSYuEmK/?vd_source=555d4d06d76dfcceeb83a9e9c3717834)
-
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1UyZSYuEmK&ep=0&as_wide=1&high_quality=1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen="true"></iframe>
-
 
 ## 项目演示
 
