@@ -4,7 +4,7 @@ model = "deepseek-r1-250120"
 #model = "deepseek-v3-250324"
 #model = "deepseek-v3-241226"
 base_url = "https://ark.cn-beijing.volces.com/api/v3"
-api_key = "d5d9437dd7-87effe-4816-9ed9-273e447ec84e"
+api_key = "d5d9437dd7-xxxxxxxxxxxxxxxx"
 max_tokens = 8192
 temperature = 0.4
 
@@ -14,7 +14,7 @@ model = "deepseek-r1-250120"
 #model = "deepseek-v3-250324"
 #model = "deepseek-v3-241226"
 base_url = "https://ark.cn-beijing.volces.com/api/v3"
-api_key = "d5d9437dd7-87effe-4816-9ed9-273e447ec84e"
+api_key = "d5d9437dd7-xxxxxxxxxxxxx"
 
 # Server configuration
 [server]
