@@ -106,11 +106,15 @@ port = 5172
 一行命令运行 Salerscub：
 
 ```bash
-python main.py
+python appy.py
 ```
 
 如需体验开发中版本，可运行：
 
+```bash
+python main.py
+```
+或
 ```bash
 python run_flow.py
 ```
