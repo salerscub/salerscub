@@ -29,6 +29,13 @@ Manus 非常棒，但 OpenManus 无需邀请码即可实现任何创意 🛫！
 <iframe src="https://player.bilibili.com/player.html?bvid=BV1UyZSYuEmK&ep=0&as_wide=1&high_quality=1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen="true"></iframe>
 
 
+## 项目演示
+
+[![OpenManus演示视频](https://path_to_your_image.png)](https://www.bilibili.com/video/BV1UyZSYuEmK/?vd_source=555d4d06d76dfcceeb83a9e9c3717834)
+
+点击上面的截图观看 OpenManus 演示视频。
+
+
 ## 安装指南
 
 我们提供两种安装方式。推荐使用方式二（uv），因为它能提供更快的安装速度和更好的依赖管理。
