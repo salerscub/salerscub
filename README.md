@@ -26,7 +26,7 @@ SalesCub 是一个开源的智能数字销售员。它集成了智能代理（Ag
 
 ```bash
 conda create -n salerscub python=3.12
-conda activate open_salerscub
+conda activate salerscub
 ```
 
 2. 克隆仓库：
