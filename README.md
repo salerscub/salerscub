@@ -9,7 +9,7 @@ SalesCub 是一个开源的智能数字销售员。它集成了智能代理（Ag
 用 Salerscub 开启你的智能体之旅吧！
 
 主站，建设中：
-http://salerscub.agiexe.com/ 
+http://salerscub.agiexe.com/ <br> 
 http://ss.agiexe.com/
 
 ## 项目演示
